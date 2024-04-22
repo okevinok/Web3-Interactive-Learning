@@ -154,3 +154,43 @@ Copyright © 2023  China [Web3-Club](https://github.com/Web3-Club) <br>
 Web3 Knowledge part copyright   ©  2013-2023 ethereum.org
 
 ALL RIGHT RESERVED
+
+
+#求职            
+🧀  Azleal
+🕌  Bachelor
+🧃  English✔️
+📌  Base: #北京
+
+🍣  #FullTime 
+🍩  #Remote / #Onsite 
+🍡  1 years+ in Web3
+🍧  Role: #Blockchain·Engineer #Engineering
+💰  Salary: $5000 / month
+👉  电报搜索DeJob加入招聘求职频道
+
+🍵  Experience:
+1. 盲盒NFT分发系统
+2. WTF Solidity开源项目代码贡献者
+3. ETH Beijing 2023黑客松
+开源地址:https://github.com/Web3-Club/Web3-Interactive-Learning
+4. 某互联网公司
+参与小程序及工作台业务开发。基于springboot+dubbo+zk的微服务集群，进行产品功能迭代研发
+
+🍿  Advantage:
+熟悉evm基本原理，熟悉solidity语言及ethers.js、web3.js、Foundry等开发框架。 
+熟练使用remix开发工具，以及链上数据分析工具dune等。 
+熟悉openzepplin，solmate等开源合约中主要的合约。 
+具备良好的英文沟通及英文文档阅读能力。 
+有开源项目代码(rainbow-me, wevm, wtf-academy等)贡献经历，对新技术敏感，有很强的自驱力。
+对web3有极大的热情。 
+具有分布式项目架构经验，掌握分布式事务、分布式锁、异步编排、缓存机制等相关原理。 
+熟悉掌握k8s，Docker等容器化及容器编排相关技术。 
+熟悉掌握SpringBoot、SpringCloud等相关技术。 
+熟悉掌握java，python，nodejs等后端语言; 熟悉react前端框架。
+具备一定的全栈能力。 熟悉常用的阿里云、腾讯云产品。
+
+🫕  Skill: nodejs,ts,solidity,java,react,nextjs
+
+🥫  More Info & Contact: 
+https://www.dejob.top/resume?id=841
